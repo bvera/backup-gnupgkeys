@@ -5,7 +5,7 @@ Simple bash script to export / import GPG Keys
 ./backupgpgkeys.sh <export|import> <GnuPG Key>
 ```
 
-Please note the binary in the script is `gpg2` becase [homebrew](http://brew.sh/), you should probably change it.
+>Please note the binary in the script is `gpg2` becase [homebrew](http://brew.sh/), you should probably change it.
 
 William Vera  
 billy@billy.mx  
